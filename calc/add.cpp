@@ -1,8 +1,11 @@
 #include "add.h"
 #include <iostream>
 
+// add function modify for test
 int add(int x, int y)
 {
-	printf("x[ %d ]¿Í y[ %d ] °ªÀ» ´õ ÇÕ´Ï´Ù.\n");
+
+	printf("x[ %d ]ì™€ y[ %d ] ê°’ì„ ë”í•©ë‹ˆë‹¤.\n");
 	return x + y;
+
 }
